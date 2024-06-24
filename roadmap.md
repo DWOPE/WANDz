@@ -26,9 +26,9 @@ Lenders will be able choose their durations and apy for loan offers in this mode
 
 We're going multichain! Our very first expansion will be to the SEI network, specifically on its v2 protocol which supports the EVM architecture. A toggle will be made available to switch chains, iSEI, SEI and USDC (SEI) will be implemented as well.
 
-## $MAGiC Launch
+## $WIZZ Launch
 
-We'll be launching a _**$MAGiC**_ our very first ecosystem token, supporting _WANDz_ in it's entirety, on LUKSO and SEI. Here's what you can expect with it:
+We'll be launching a _**$WIZZ (Wizzdom)**_ our very first ecosystem token, supporting _WANDz_ in it's entirety, on LUKSO and SEI. Here's what you can expect with it:
 
 * Social Score: users are rewarded with points for borrowing a lot, loaning a lot, deduct points for liquidations, revoking and foreclosing.
 * It's purpose is a multiplicator of sorts which impacts the platform revenue your _DWOOBz_ will receive each day via airdrop in the form of _**$LYX or $SEI**_ tokens.
