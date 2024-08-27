@@ -31,5 +31,5 @@ We're going multichain! Our very first expansion will be to the Monad network, w
 We'll be launching a _**$WIZZ (Wizzdom)**_ our very first ecosystem token, supporting _WANDz_ in it's entirety, on LUKSO and Monad. Here's what you can expect with it:
 
 * Social Score: users are rewarded with points for borrowing a lot, loaning a lot, deduct points for liquidations, revoking and foreclosing.
-* It's purpose is a multiplicator of sorts which impacts the platform revenue your _DWOOBz_ will receive each day via airdrop in the form of _**$LYX or $Monad*_ tokens.
+* It's purpose is a multiplicator of sorts which impacts the platform revenue your _DWOOBz_ will receive each day via airdrop in the form of _**$LYX or $Monad**_ tokens.
 * Other criterias will influence your social score and how it's calculated, mainly depending on your participation in the _DWØPE_ ecosystem.
