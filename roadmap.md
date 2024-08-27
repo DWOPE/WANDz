@@ -22,14 +22,14 @@ Affecting APRs calculation: Once a loan offer is made, an APR range is given to 
 
 Lenders will be able choose their durations and apy for loan offers in this mode, and by simply toggling on/off a buttons, they'll be able to enter in and out of classic and advanced modes
 
-## SEI v2 Integration
+## Monad Integration
 
-We're going multichain! Our very first expansion will be to the SEI network, specifically on its v2 protocol which supports the EVM architecture. A toggle will be made available to switch chains, iSEI, SEI and USDC (SEI) will be implemented as well.
+We're going multichain! Our very first expansion will be to the Monad network, which supports the EVM architecture. A toggle will be made available to switch chains, their native currency will be implemented as well as soon as Monad is live on mainnet.
 
 ## $WIZZ Launch
 
-We'll be launching a _**$WIZZ (Wizzdom)**_ our very first ecosystem token, supporting _WANDz_ in it's entirety, on LUKSO and SEI. Here's what you can expect with it:
+We'll be launching a _**$WIZZ (Wizzdom)**_ our very first ecosystem token, supporting _WANDz_ in it's entirety, on LUKSO and Monad. Here's what you can expect with it:
 
 * Social Score: users are rewarded with points for borrowing a lot, loaning a lot, deduct points for liquidations, revoking and foreclosing.
-* It's purpose is a multiplicator of sorts which impacts the platform revenue your _DWOOBz_ will receive each day via airdrop in the form of _**$LYX or $SEI**_ tokens.
+* It's purpose is a multiplicator of sorts which impacts the platform revenue your _DWOOBz_ will receive each day via airdrop in the form of _**$LYX or $Monad*_ tokens.
 * Other criterias will influence your social score and how it's calculated, mainly depending on your participation in the _DWØPE_ ecosystem.
