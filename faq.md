@@ -29,6 +29,6 @@ There are two main types of NFT lending models: peer-to-peer and peer-to-pool. P
 
 ### <mark style="color:blue;">What currencies does WANDz support?</mark>
 
-Currently, WANDz supports loans in LYX, with SEI, iSEI, and USDC support to be added relatively soon, with plans to expand to other popular coins from the LUKSO and SEI ecosystems.
+Currently, WANDz supports loans in LYX, with Monad and USDC support to be added relatively soon, with plans to expand to other popular coins from the LUKSO and SEI ecosystems.
 
 We are is actively building a future where anyone can unlock the value of their NFT collection without having to sell their precious digital assets. Stay tuned for exciting updates!
